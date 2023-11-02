@@ -1,0 +1,19 @@
+{
+  "name": "oranges",
+  "version": "1.0.0",
+  "description": "calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/333Kay333/oranges.git"
+  },
+  "author": "\"KayCoding\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/333Kay333/oranges/issues"
+  },
+  "homepage": "https://github.com/333Kay333/oranges#readme"
+}
