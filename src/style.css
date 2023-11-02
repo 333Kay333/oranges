@@ -1,7 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
 
+body {
+  background-color: darkgray;
+}
+header {
+  text-align: center;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-size: 30px;
+  padding: 15px;
+}
 .calculator {
-    padding: 10px;
+    padding: 15px;
     border-radius: 1em;
     height: 380px;
     width: 400px;
@@ -21,7 +30,7 @@
 }
 
 #btn {
-    background-color: #fb0066;
+    background-color: #b49cc7;
 }
 
 input[type=button] {
